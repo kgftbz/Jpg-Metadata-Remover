@@ -1,4 +1,4 @@
 # Jpg-Metadata-Remover
 Removes Metadata from .jpg and .jpeg files
 
-Download page: https://github.com/kgftbz/Jpg-Metadata-Remover/releases
+Download link: https://github.com/kgftbz/Jpg-Metadata-Remover/releases/download/version1/JpgMetadataRemover.zip
