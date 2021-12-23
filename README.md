@@ -2,6 +2,7 @@
 Removes Metadata from .jpg and .jpeg files
 
 Download link: https://github.com/kgftbz/Jpg-Metadata-Remover/releases/download/version1/JpgMetadataRemover.zip
+
 BACK UP YOUR IMAGE FILES BEFORE USING THIS PROGRAM!!
 This program will overwrite every .jpg and .jpeg files in it's current folder
 
